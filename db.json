@@ -1,0 +1,15 @@
+{
+  "product": [
+    {
+      "Category": "Agarbatti",
+      "image": "https://i.ibb.co/KGGNhsx/Screenshot-20230226-185052.png",
+      "name": "sdf",
+      "price": "34",
+      "stock": "34",
+      "weight": "34",
+      "id": 1
+    }
+  ],
+  "users": [],
+  "post": []
+}
